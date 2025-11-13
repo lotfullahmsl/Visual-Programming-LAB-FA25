@@ -1,0 +1,16 @@
+F:\Bahria University On Campus\BSE-5A\VP-Lab\VP - Lab 9\Task 2\obj\Debug\net8.0-windows\Task 2.csproj.GenerateResource.cache
+F:\Bahria University On Campus\BSE-5A\VP-Lab\VP - Lab 9\Task 2\obj\Debug\net8.0-windows\Task 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bahria University On Campus\BSE-5A\VP-Lab\VP - Lab 9\Task 2\obj\Debug\net8.0-windows\Task 2.AssemblyInfoInputs.cache
+F:\Bahria University On Campus\BSE-5A\VP-Lab\VP - Lab 9\Task 2\obj\Debug\net8.0-windows\Task 2.AssemblyInfo.cs
+F:\Bahria University On Campus\BSE-5A\VP-Lab\VP - Lab 9\Task 2\obj\Debug\net8.0-windows\Task 2.csproj.CoreCompileInputs.cache
+F:\Bahria University On Campus\BSE-5A\VP-Lab\VP - Lab 9\Task 2\bin\Debug\net8.0-windows\Task 2.exe
+F:\Bahria University On Campus\BSE-5A\VP-Lab\VP - Lab 9\Task 2\bin\Debug\net8.0-windows\Task 2.deps.json
+F:\Bahria University On Campus\BSE-5A\VP-Lab\VP - Lab 9\Task 2\bin\Debug\net8.0-windows\Task 2.runtimeconfig.json
+F:\Bahria University On Campus\BSE-5A\VP-Lab\VP - Lab 9\Task 2\bin\Debug\net8.0-windows\Task 2.dll
+F:\Bahria University On Campus\BSE-5A\VP-Lab\VP - Lab 9\Task 2\bin\Debug\net8.0-windows\Task 2.pdb
+F:\Bahria University On Campus\BSE-5A\VP-Lab\VP - Lab 9\Task 2\obj\Debug\net8.0-windows\Task 2.dll
+F:\Bahria University On Campus\BSE-5A\VP-Lab\VP - Lab 9\Task 2\obj\Debug\net8.0-windows\refint\Task 2.dll
+F:\Bahria University On Campus\BSE-5A\VP-Lab\VP - Lab 9\Task 2\obj\Debug\net8.0-windows\Task 2.pdb
+F:\Bahria University On Campus\BSE-5A\VP-Lab\VP - Lab 9\Task 2\obj\Debug\net8.0-windows\Task 2.genruntimeconfig.cache
+F:\Bahria University On Campus\BSE-5A\VP-Lab\VP - Lab 9\Task 2\obj\Debug\net8.0-windows\ref\Task 2.dll
+F:\Bahria University On Campus\BSE-5A\VP-Lab\VP - Lab 9\Task 2\obj\Debug\net8.0-windows\Task_2.Form1.resources
