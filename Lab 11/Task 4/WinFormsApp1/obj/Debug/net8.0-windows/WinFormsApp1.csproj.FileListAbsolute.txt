@@ -1,0 +1,16 @@
+F:\Bahria University On Campus\BSE-5A\VP-Lab\Lab 11\Task 4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+F:\Bahria University On Campus\BSE-5A\VP-Lab\Lab 11\Task 4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+F:\Bahria University On Campus\BSE-5A\VP-Lab\Lab 11\Task 4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+F:\Bahria University On Campus\BSE-5A\VP-Lab\Lab 11\Task 4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+F:\Bahria University On Campus\BSE-5A\VP-Lab\Lab 11\Task 4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+F:\Bahria University On Campus\BSE-5A\VP-Lab\Lab 11\Task 4\WinFormsApp1\obj\Debug\net8.0-windows\Lab11_MouseKeyboard.Form1.resources
+F:\Bahria University On Campus\BSE-5A\VP-Lab\Lab 11\Task 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+F:\Bahria University On Campus\BSE-5A\VP-Lab\Lab 11\Task 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bahria University On Campus\BSE-5A\VP-Lab\Lab 11\Task 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+F:\Bahria University On Campus\BSE-5A\VP-Lab\Lab 11\Task 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+F:\Bahria University On Campus\BSE-5A\VP-Lab\Lab 11\Task 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+F:\Bahria University On Campus\BSE-5A\VP-Lab\Lab 11\Task 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+F:\Bahria University On Campus\BSE-5A\VP-Lab\Lab 11\Task 4\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+F:\Bahria University On Campus\BSE-5A\VP-Lab\Lab 11\Task 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+F:\Bahria University On Campus\BSE-5A\VP-Lab\Lab 11\Task 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+F:\Bahria University On Campus\BSE-5A\VP-Lab\Lab 11\Task 4\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
